@@ -5,8 +5,6 @@ Links here:
 
 ```
 Task Force Patriots
-Calling all Patriots -- Only for the brave
-Operation: Save the children
 
 Documents:
   Previous Work: https://8kun.top/qresearch/res/2371258.html#2371258
@@ -69,6 +67,7 @@ Leads:
 Code bases:
   Pixelknot: https://github.com/guardianproject/PixelKnot
      -- oldest update from two years ago
+     -- See this research paper on PK: https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1021&context=csafe_pubs
   F5-Stegnography (is tha 8kun was using?): https://github.com/matthewgao/F5-steganography
      -- run via command line. see not on using decrypt ie d
      -- can we make this into a brute force script via perl?
