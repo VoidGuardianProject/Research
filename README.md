@@ -27,11 +27,6 @@ Good candidate to decipher:
 
 
 Leads:
-  Wayfair Pedo Store: https://www.wayfair.com/brand/bnd/isabelline-b48131.html		(look at the logo)
-    -- See https://greatawakening.win/p/12hRQIaFOd/these-extremely-expensive-blood-/c/
-    -- stegdetect on these?
-  Castle Rock:
-    -- Anon mentioned Antartica has a Castle Rock point.
   Any possible encrypted photo:
     -- Could have the photo as a key of sorts
        -- How do we convert the photo to a key?
@@ -53,7 +48,7 @@ Leads:
           -- pip install pillow (or use package manager)
     -- Stenography - by itself:  
     -- Pictures: are the evidence themselves , leaked?
-
+    -- The photos and info in tweets etc are an ssh key.
     -- Overall Picture:
     -- Key: leads to the evidence itself.
        -- Jeffrey epstein photos
@@ -61,7 +56,6 @@ Leads:
        -- unsure
     -- Map
        -- our objective is learn to read the map
-       --
 
 
 Code bases:
@@ -91,36 +85,8 @@ Code bases:
    stego-toolkit:
 	https://github.com/DominicBreuker/stego-toolkit
    https://www.nsa.gov/resources/everyone/ghidra/
-
-
-Notes Per User:
-    -- X... believes detection algorithm is incorrect
-       the images have embedded thumbnails and a lot of exif data that is unusual
-       From SqueezeOrSqooze: what are the next steps if you are correct?
-       Stegdetect found something as well. Did stegdetect find stuff in the wayfair photos? Is that the rug photo?
-       Says image embedded with jphide --> big?
-       Added jphide link under code bases
-       Steps to reproduce:
-          -- clone stegdetect. clone jphide. download image
-
-    -- Y - got pixelknot to 60% but crash. Does pixelknot even work? Used photo from drop 869.
-       Used password: EA29DD13-F16F-4580-9DC8-0D69
-       Password was image name -> except the three dots at the end of it were odd (so in telegram desktop app, I think the filename
-       is fully flushed out. still odd though). Drops points to IDEN + 1 (letters, I=9, D=4, E=5, N=14 which sum to 68 + 1 is 69).
-       Replaced the three dots with 69. Took it the highest we have seen to 60% and then crashed
-       		-- Subnotes: pixelknot seems to crash a lot. Does this happen for the wrong password or is the app bunk. Can F5-Stego git
-		   repo linked to replace pixelknot. Seems the 8kun thread thought that was viable.
-	Yalso wants to stick with Q photos (no memes). Good. i would also suggest GEORGENEWS pictures as I believe GEORGENEWS is the current Q.
-        (begs question why did Q drop his password).
-        Y OPENPUFF to trim down pictures by 20% per Q posts #4660, read drops 4658-4663
-
-
-Questions:
-  -- Is Q trying to leak confidential info? Why something like Castle Rock a place in Antartica?
-  -- Why all the satantic symbols?
-  -- What is the key, keystone, and map for?
-  -- Why would Q encode stuff for us to decrypt? Why is it encrypted in such a complex way?
-
+    Photo Analysis: https://29a.ch/photo-forensics/#jpeg-data
+    Steg tools: https://www.cyberpratibha.com/blog/steganography-tools-for-windows-10/
 
 
 Suggested tools / protocals:
